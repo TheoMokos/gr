@@ -13,7 +13,7 @@ title                    : "Ο Προγραμματισμός της Διάδρ�
 title_separator          : "-"
 name                     : "mibook"
 description              : "Making Interactivity Greek Book."
-url                      : "https://TheoMokos.github.io"
+url                      : "https://theomokos.github.io"
 baseurl                  : "/gr"
 repository               : "TheoMokos/gr"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -64,7 +64,7 @@ author:
   location         :
   email            :
   uri              :
-  home             : "http://TheoMokos.github.io/gr"
+  home             : "http://TheoMokos.github.io/gr/"
   bitbucket        :
   codepen          :
   dribbble         :
